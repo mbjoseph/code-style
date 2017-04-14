@@ -334,5 +334,4 @@ By Bokanko (Own work) [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3
 
 ## In situ example of refactoring
 
-https://github.com/mbjoseph/code_efficiency/commit/06f3ddc545a59f3012d4173a2b94561673ed6721
-
+https://github.com/mbjoseph/code-style/commit/c9a66da37d02645567bc2e9b51373bf43adbd97f
