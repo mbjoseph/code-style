@@ -1,6 +1,6 @@
 ---
-title: "Copypasta"
-subtitle: "Copy/paste, code smell, technical debt, and you"
+title: "Copypasta, code smell, technical debt, and you"
+subtitle: "https://github.com/mbjoseph/code-style"
 author: "Max Joseph"
 date: "April 13, 2017"
 output: 
@@ -305,10 +305,32 @@ inline void Init( float ix=0, float iy=0,
 https://www.viva64.com/en/b/0260/
 
 
-## Solutions for copypasta
 
-### 1. Refactoring
+## Is all technical debt bad?
 
+### No or why would the title of this slide be a question
+
+Debt you **know** > debt you **don't know** about
+
+### Technical debt is often unavoidable
+
+**Solution**
+
+Track it with `TODO` comments
+
+More [here](http://philippe.bourgau.net/a-seamless-way-to-keep-track-of-technical-debt-in-your-source-code/)
+
+
+
+
+## A solution for extant copypasta
+
+### Refactoring
+
+Improve your code's **structure** 
+
+
+while retaining its **function**
 
 
 
